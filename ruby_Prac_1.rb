@@ -1,4 +1,4 @@
-#Combine control flow with Ruby string methods to Daffy Duckify a user’s string, replacing each "s" with "th".
+# Combine control flow with Ruby string methods to Daffy Duckify a user’s string, replacing each "s" with "th".
 print "Thtring, pleathe!: "
 user_input = gets.chomp
 user_input.downcase!
